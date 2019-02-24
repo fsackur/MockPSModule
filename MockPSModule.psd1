@@ -1,7 +1,7 @@
 ﻿@{
     Description       = 'A do-nothing powershell module that has release versions and a manifest.'
     ModuleToProcess   = 'MockPSModule.psm1'
-    ModuleVersion     = '1.0.0.0'
+    ModuleVersion     = '1.1.0.0'
     GUID              = 'deadbeef-dead-beef-dead-beefdeadbeef'
 
     Author            = 'Freddie Sackur'
